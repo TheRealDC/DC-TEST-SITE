@@ -1,0 +1,45 @@
+/***** BASE STYLES *****/
+body {
+    color: blue;
+    font-family: 'Montserrat", serif';
+    font-size: 18px;
+}
+/***** GRID *****/
+.full-width {   
+    margin: 0 auto;
+    overflow: auto;
+    width: 1200px;
+}
+
+.half-width {   
+    float: left;
+    margin: 0 auto;
+    width: 600px;
+}
+
+.third-width {   
+    float: left;
+    margin: 0 auto;
+    width: 400px;
+}
+/***** HEADER *****/
+header {
+    background-color: blue;
+    font-family: 'Permanent Marker', serif;
+}
+.test-site {
+    font-size: 38px;
+    color: white;
+}
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    display: inline-block;
+}
+
+#therealdc {
+    background-color: black;
+}
+#about {
+    background-color: grey;
+}
